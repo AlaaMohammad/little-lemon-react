@@ -1,0 +1,4 @@
+{
+  "auto-rename-tag.activationOnLanguage": ["*"],
+  "autoimport.filesToScan": "**/*.{js,ts,tsx}"
+}
